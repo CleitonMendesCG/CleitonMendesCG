@@ -1,15 +1,27 @@
-# **Olá me chamo Cleiton**
+# **Olá, me chamo Cleiton**
 
 📚 Atualmente estou estudando sistemas de informação.
 
-🛠 Foco na parte de Infraestrutura
+🛠 Meu Foco principal é na parte de Infraestrutura.
+
+🔧 também desenvolvo na parte de Front - End com as tecnologias (HTML5,CSS3,JS,PHP)
+
+<!--Seção de ferramentas utilizadas-->
 
 **Tecnologias utilizadas**
 
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+<!--Seção de links de visita-->
 
 
 
-<!--Seção de Tecnologias usadas-->
- ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](	https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+
+
+<!---->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CleitonMendesCG&show_icons=true&theme=dark)
+
+<!--Repositórios mais relevantes-->
