@@ -11,7 +11,6 @@
 **Tecnologias utilizadas**
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 <!--Seção de links de visita-->
@@ -20,8 +19,13 @@
 
 
 
+<!--Estatisticas do GitHub-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CleitonMendesCG&show_icons=true&theme=codeSTACKr)
 
-<!---->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CleitonMendesCG&show_icons=true&theme=dark)
+
 
 <!--Repositórios mais relevantes-->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CleitonMendesCG&repo=Projetos-Front-End)](https://github.com/CleitonMendesCG/Projetos-Front-End)
+
+
+
