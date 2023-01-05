@@ -8,7 +8,7 @@
 
 <!--Seção de ferramentas utilizadas-->
 
-# **Tecnologias utilizadas**
+* **Tecnologias utilizadas**
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Database](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
