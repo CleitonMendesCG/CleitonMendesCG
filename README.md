@@ -16,9 +16,12 @@
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 <!--Estatisticas do GitHub-->
+<div>
+  <a href="https://github.com/CleitonMendesCG">
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CleitonMendesCG&show_icons=true&theme=codeSTACKr" alt="">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleitonMendesCG&theme=blue-green&langs_count=6&layout=compact" alt=""> 
+</div
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CleitonMendesCG&show_icons=true&theme=codeSTACKr)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CleitonMendesCG&theme=blue-green&langs_count=6&layout=compact)
 <!--Repositórios mais relevantes-->
 
 * Repositórios de Destaque
