@@ -27,7 +27,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CleitonMendesCG&repo=Projetos-Front-End)](https://github.com/CleitonMendesCG/Projetos-Front-End)
 
 <!--Meios de contato-->
----
+
 - **Contatos**
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cleitonmendescoelho)
