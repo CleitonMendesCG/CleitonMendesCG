@@ -17,7 +17,7 @@
 
 <!--Estatisticas do GitHub-->
 ![](https://github-readme-stats.vercel.app/api?username=CleitonMendesCG&show_icons=true&theme=codeSTACKr)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CleitonMendesCG)](https://github.com/CleitonMendesCG)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CleitonMendesCG&langs_count=6)](https://github.com/CleitonMendesCG&tema=blue)
 
 <!--Repositórios mais relevantes-->
 
