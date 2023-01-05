@@ -21,12 +21,12 @@
 
 <!--Repositórios mais relevantes-->
 
-* Repositórios de Destaque
+* **Repositórios de Destaque**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CleitonMendesCG&repo=Projetos-Front-End)](https://github.com/CleitonMendesCG/Projetos-Front-End)
 
 <!--Meios de contato-->
-- Contatos
+- **Contatos**
 
 ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
