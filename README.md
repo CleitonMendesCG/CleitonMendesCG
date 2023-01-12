@@ -16,14 +16,14 @@
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 <!--Estatisticas do GitHub-->
-![](https://github-readme-stats.vercel.app/api?username=CleitonMendesCG&show_icons=true&theme=codeSTACKr)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CleitonMendesCG&langs_count=6)](https://github.com/CleitonMendesCG&tema=blue)
+![](https://github-readme-stats.vercel.app/api?username=cleitonmendesgama&show_icons=true&theme=codeSTACKr)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleitonmendesgama&langs_count=6)](https://github.com/CleitonMendesCG&tema=blue)
 
 <!--Repositórios mais relevantes-->
 
 * **Repositórios de Destaque**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CleitonMendesCG&repo=Projetos-Front-End)](https://github.com/CleitonMendesCG/Projetos-Front-End)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cleitonmendesgama&repo=Projetos-Front-End)](https://github.com/CleitonMendesCG/Projetos-Front-End)
 
 <!--Meios de contato-->
 
