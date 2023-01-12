@@ -18,6 +18,7 @@
 <!--Estatisticas do GitHub-->
 ![](https://github-readme-stats.vercel.app/api?username=cleitonmendesgama&show_icons=true&theme=codeSTACKr)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleitonmendesgama&langs_count=6)](https://github.com/cleitonmendesgama&tema=blue)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cleitonmendesgama)](https://github.com/cleitonmendesgama)
 
 <!--Repositórios mais relevantes-->
 
