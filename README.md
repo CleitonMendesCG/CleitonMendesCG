@@ -17,13 +17,13 @@
 
 <!--Estatisticas do GitHub-->
 ![](https://github-readme-stats.vercel.app/api?username=cleitonmendesgama&show_icons=true&theme=codeSTACKr)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleitonmendesgama&langs_count=6)](https://github.com/CleitonMendesCG&tema=blue)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleitonmendesgama&langs_count=6)](https://github.com/cleitonmendesgama&tema=blue)
 
 <!--Repositórios mais relevantes-->
 
 * **Repositórios de Destaque**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cleitonmendesgama&repo=Projetos-Front-End)](https://github.com/CleitonMendesCG/Projetos-Front-End)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cleitonmendesgama&repo=Projetos-Front-End)](https://github.com/cleitonmendesgama/Projetos-Front-End)
 
 <!--Meios de contato-->
 
