@@ -16,16 +16,14 @@
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 <!--Estatisticas do GitHub-->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=)](https://github.com/anuraghazra/github-readme-stats)
-![](https://github-readme-stats.vercel.app/api?username=cleitonmendesgama&show_icons=true&theme=codeSTACKr)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleitonmendesgama&langs_count=6)](https://github.com/cleitonmendesgama&tema=blue)
-
+![](https://github-readme-stats.vercel.app/api?username=cleitonmendescoelho&show_icons=true&theme=codeSTACKr)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleitonmendescoelho)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--Repositórios mais relevantes-->
 
 * **Repositórios de Destaque**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cleitonmendesgama&repo=Projetos-Front-End)](https://github.com/cleitonmendesgama/Projetos-Front-End)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cleitonmendescoelho&repo=Projetos-Front-End)](https://github.com/cleitonmendescoelho/Projetos-Front-End)
 
 <!--Meios de contato-->
 
