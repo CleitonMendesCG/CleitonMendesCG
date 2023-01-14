@@ -23,7 +23,7 @@
 
 * **Repositórios de Destaque**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cleitonmendescoelho&repo=Projetos-Front-End)](https://github.com/cleitonmendescoelho/Projetos-Fronf-End)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cleitonmendescoelho&repo=Projetos-Front-End)](https://github.com/cleitonmendescoelho/Projetos-Front-End)
 
 <!--Meios de contato-->
 
